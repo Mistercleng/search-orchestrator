@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Mistercleng/search-orchestrator/issues"
   },
-  "homepage": "https://github.com/Mistercleng/search-orchestrator#readme"
+  "homepage": "https://github.com/Mistercleng/search-orchestrator#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
